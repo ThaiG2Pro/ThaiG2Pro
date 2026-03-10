@@ -9,33 +9,33 @@ that makes it work at scale.
 
 ---
 
-## 🎯 What Makes Me Different
+## What Makes Me Different
 
 Most AI projects stop at the demo.  
 Mine don't.
 
 When I build, I think about:
 
-- 💰 **Cost** — every token costs money. I optimize for it.
-- 🔒 **Security** — input sanitization, rate limiting, key rotation from day one.
-- 📊 **Observability** — if I can't monitor it, I don't trust it.
-- ♻️ **Improvement loops** — evaluation, feedback, iteration.
+-  **Cost** — every token costs money. I optimize for it.
+-  **Security** — input sanitization, rate limiting, key rotation from day one.
+-  **Observability** — if I can't monitor it, I don't trust it.
+-  **Improvement loops** — evaluation, feedback, iteration.
 
 > *Building with production mindset isn't a skill level — it's a habit.*
 
 ---
 
-## 🚧 What I'm Currently Working On
+## What I'm Currently Working On
 
 ### 🤖 [AI Sales Agent for E-commerce](https://github.com/ThaiG2Pro/ai-agent-sale-v2)
 A multi-agent LLM system that handles end-to-end sales conversations for e-commerce.
 
 ```
 Orchestrator Agent
-├── 🔍 Product Search Agent     → RAG over product catalog
-├── 🎯 Recommendation Agent     → context-aware suggestions  
-├── 💬 Negotiation Agent        → handles objections, pricing
-└── 📋 Order Summary Agent      → confirms and closes
+├──  Product Search Agent     → RAG over product catalog
+├──  Recommendation Agent     → context-aware suggestions  
+├──  Negotiation Agent        → handles objections, pricing
+└──  Order Summary Agent      → confirms and closes
 ```
 
 **What's production-grade about it:**
@@ -46,7 +46,7 @@ Orchestrator Agent
 
 ---
 
-## 📦 Project Taxonomy
+##  Project Taxonomy
 
 | Project | Domain | Type | Stack | Status |
 |---------|--------|------|-------|--------|
@@ -56,7 +56,7 @@ Orchestrator Agent
 
 ---
 
-## 🧠 How I Think About AI Engineering
+##  How I Think About AI Engineering
 
 ```python
 class MyApproach:
@@ -79,7 +79,7 @@ class MyApproach:
 
 ---
 
-## 🏷️ Tags & Taxonomy
+##  Tags & Taxonomy
 
 **AI / LLM**  
 ![LLM](https://img.shields.io/badge/LLM-7C6AF7?style=flat-square)
@@ -120,11 +120,11 @@ class MyApproach:
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm open to **AI Engineer Intern / Fresher / Junior** roles — especially teams
-building real AI products in e-commerce, fintech, or B2C.
+building real AI products in e-commerce.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourname)
-[![Blog](https://img.shields.io/badge/Blog-yourname.github.io-7C6AF7?style=flat-square)](https://yourname.github.io)
-[![Email](https://img.shields.io/badge/Email-yourname@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:yourname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thailovedata-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/thailovedata)
+[![Blog](https://img.shields.io/badge/Blog-thaig2pro.github.io-7C6AF7?style=flat-square)](https://thaig2pro.github.io)
+[![Email](https://img.shields.io/badge/Email-thainguyenax00@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:thainguyenax00@gmail.com)
