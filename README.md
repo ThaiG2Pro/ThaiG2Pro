@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Hoàng Nguyên Thái 👋
 
-<!--
-**ThaiG2Pro/ThaiG2Pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on LLM Agents and GenAI systems for E-commerce.
+I build things that are meant to run in production — not just demos.
 
-Here are some ideas to get you started:
+🔧 Currently building: AI Sales Agent for E-commerce
+   → Multi-agent architecture · RAG · Cost-optimized · Cloud-deployed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 I write about what I learn everyday: ![my blog](https://thaig2pro.github.io/en)
+
+---
+
+**Core Stack**
+Python · LangChain · LangGraph · FastAPI · Docker · GCP
+
+**What I care about**
+LLM Observability · Prompt Engineering · Data-centric ML · E-commerce AI
